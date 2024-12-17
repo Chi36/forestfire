@@ -22,4 +22,5 @@ This predicts forest fires in a given region based on the available datasets.Loa
 
 The names of the author and the instructor:                  Chimezie Frank Onwudinjo,  Dr. Jude A. Okolie                                                                                                                     
 Your department and university information:                  Chemical Engineering Departmnent, Bucknell University
+
 Course Code:                                                 CHEG 672 (Data Science in Chemical Engineering)
