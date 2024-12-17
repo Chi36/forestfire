@@ -1,6 +1,6 @@
 # forestfire project
 
-Problem Statement: 
+**Problem Statement**: 
 Wild forest fires are a major menace in many countries of the world. With each sudden fire incident, lives and property are adversely affected as well as the environment.
 Accurately forecasting forest fires has become a crucial challenge as climate change worsens the conditions for wildfire occurrence and spread. Early warning systems, resource management, and successful firefighting efforts all depend on the ability to forecast the onset, spread, and magnitude of forest fires in real-time. While useful, existing forest fire prediction techniques have limitations with precision, scalability, and prompt deployment. Predicting the precise location, timing, and modes of forest fires is difficult because forest fire depends on a number of variables, notably geography, vegetation type, weather, and human activity. Therefore, a sophisticated, data-driven approach is required to accurately forecast forest fires. To address this challenge, openly sourced datasets were used to create a GUI that can predict possible forest fire occurrence. The data-driven insighhts from the project
 
