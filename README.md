@@ -20,6 +20,6 @@ Project Details:
 This predicts forest fires in a given region based on the available datasets.Load datasets, separate numerical and categorical variables. Next, handle missing values and perform One-Hot Encoding for categorical variables. Drop original columns and concatenate encoded ones. Now, split datasets into inputs (x) and targets (y). Perform one-Hot encoding on the output variables if categorical (ensure that features are numeric). Define the models used, train and select the best model. Define Gradio app and interface. Finally push to Hugging Face and move to GitHub. 
 
 
-The names of the author and the instructor: Chimezie Frank Onwudinjo, Dr. Jude A. Okolie
-Your department and university information: Chemical Engineering Departmnent, Bucknell University
-Course Code: CHEG 672 (Data Science in Chemical Engineering)
+The names of the author and the instructor:                  Chimezie Frank Onwudinjo,  Dr. Jude A. Okolie                                                                                                                     
+Your department and university information:                  Chemical Engineering Departmnent, Bucknell University
+Course Code:                                                 CHEG 672 (Data Science in Chemical Engineering)
